@@ -25,4 +25,4 @@ A lightweight and easy-to-use random strong password generator that allows users
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://gr3ytrac3.github.io/PassGen/
