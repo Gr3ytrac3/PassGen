@@ -19,7 +19,7 @@ A lightweight and easy-to-use random strong password generator that allows users
 
 ## 📸 Preview
 
-![screenshot](./screenshot.png) <!-- Optional: Add a screenshot of your app here -->
+![screenshot](./PassGen.png)
 
 ## 📦 How to Use
 
